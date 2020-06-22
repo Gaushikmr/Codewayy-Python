@@ -6,5 +6,5 @@
 
 2. What is Python and why to learn it?
 
-3. sWorking with variables
+3. Working with variables
 
