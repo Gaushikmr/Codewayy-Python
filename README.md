@@ -1,7 +1,7 @@
 # Codewayy-Python
 This Repository contains  tasks related to python given by Codeway. 
 
-## Day-1
+**Day-1**
 
 1. Installation
 
@@ -9,7 +9,7 @@ This Repository contains  tasks related to python given by Codeway.
 
 3. Working with variables
 
-### Day-2
+**Day-2**
 
 1.List
 
