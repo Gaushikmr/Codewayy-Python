@@ -1,6 +1,6 @@
 # Answers
 
-**1.Why is list used?**
+1.Why is list used?
 
 *List in Python are ordered and have a definite count. 
 *The elements in a list are indexed according to a definite sequence and the indexing of a list is done with 0 being the first index. 
