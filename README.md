@@ -1,5 +1,5 @@
 # Codewayy-Python
-This Repository contains  tasks related to python given by Codeway. 
+This Repository contains  tasks related to python given by Codewayy. 
 
 **Day-1**
 
