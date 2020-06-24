@@ -10,7 +10,7 @@
 
 ### Day-2
 
-1.List
-2.Tuple
-3.Sets
+1.List\
+2.Tuple\
+3.Sets\
 4.Dictionaries
