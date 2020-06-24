@@ -1,0 +1,22 @@
+**Answers**
+
+1.Why is list used?
+
+*List in Python are ordered and have a definite count. 
+*The elements in a list are indexed according to a definite sequence and the indexing of a list is done with 0 being the first index. 
+*Each element in the list has its definite place in the list, which allows duplicating of elements in the list, with each element having its own distinct place and credibility.
+
+2.How do lists and sets differ?
+ *Sets-Unordered collections of unique elements
+
+  *Lists - ordered collections of elements
+
+*Sets -allows you to do operations such as intersection, union, difference, and symmetric difference.
+ i.e operations of math's set theory. Sets doesn't allow indexing and are implemented on hash tables.
+
+*Lists -are really variable-length arrays, not Lisp-style linked lists.
+ In lists the elements are accessed by indices.
+
+ 3.Application of dictionaries with a real world example.
+ 
+ Real world example of dictionareies is PhoneBook where we store multiple users with deatils.
