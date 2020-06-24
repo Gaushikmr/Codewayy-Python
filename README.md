@@ -1,6 +1,6 @@
 # Codewayy-Python
 
-*Day-1*
+## Day-1
 
 1. Installation
 
@@ -8,3 +8,9 @@
 
 3. Working with variables
 
+### Day-2
+
+*List
+*Tuple
+*Sets
+*Dictionaries
