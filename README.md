@@ -33,3 +33,14 @@ This Repository contains  tasks related to python given by Codewayy.
 
 *  A program in Python which imports files as modules. The modules contain user defined list functions, string functions and logical operator functions.
 
+**Day-5** 
+
+* A program in Python which makes use of the Python error handling, your program should include: ```Try, Except, Raise, Finally keyword```.
+
+* A program in Python which makes use of the different match functions(min 3) and the sort function for list, tuples, sets etc.
+
+* A program in Python to read a text file and print it’s content.
+
+* A program in Python which should take a string of 3-4 lines and write it to a txt file.
+
+
