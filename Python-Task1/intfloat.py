@@ -1,4 +1,4 @@
-#Question 1
+# Question:1
 
 #Values in integer
 n1=int(input("enter first  value:"))
