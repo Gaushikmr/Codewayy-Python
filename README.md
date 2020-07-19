@@ -3,25 +3,25 @@ This Repository contains  tasks related to python given by Codewayy.
 
 **Day-1**
 
-1. Installation
+* Installation
 
-2. What is Python and why to learn it?
+* What is Python and why to learn it?
 
-3. Working with variables
+* Working with variables
 
 **Day-2**
 
-1.List
+* List
 
-2.Tuple
+* Tuple
 
-3.Sets
+* Sets
 
-4.Dictionaries
+* Dictionaries
 
 **Day-3** :
 
-* A program in Python for calculating and printing **details(full name, total marks, percentage, grade)** of a student using functions.
+* A program in Python for calculating and printing details(full name, total marks, percentage, grade) of a student using functions.
 
 * A program in Python to calculate the length of two strings by concatenating them.
 
