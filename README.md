@@ -35,7 +35,7 @@ This Repository contains  tasks related to python given by Codewayy.
 
 **Day-5** 
 
-* A program in Python which makes use of the Python error handling, your program should include: ```Try, Except, Raise, Finally keyword```.
+* A program in Python which makes use of the Python error handling, your program should include: Try, Except, Raise, Finally keyword.
 
 * A program in Python which makes use of the different match functions(min 3) and the sort function for list, tuples, sets etc.
 
