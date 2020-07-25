@@ -53,4 +53,8 @@ This Repository contains  tasks related to python given by Codewayy.
 
 * Find all occurrences of “at” in given string ignoring the case(take string as input from user.)
 
+* Create a function to count number of words in a sentence (Take input from user)
+
+
+
 
