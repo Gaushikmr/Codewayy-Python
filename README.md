@@ -1,13 +1,7 @@
 # Codewayy-Python
 This Repository contains  tasks related to python given by Codewayy. 
 
-**Day-1**
 
-* Installation  
-
-* What is Python and why to learn it?
-
-* Working with variables
 
 **Day-2**
 
